@@ -1,4 +1,4 @@
-# Template for a sample app
+# Streaming Hacker News Updates
 
 - Skill level
     
