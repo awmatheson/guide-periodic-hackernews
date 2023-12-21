@@ -1,1 +1,2 @@
-bytewax
+bytewax==17.1
+requests
